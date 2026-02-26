@@ -20,10 +20,10 @@ except:
     pass
 
 st.subheader("Una pequeño poema.")
-st.write('Cerrar podrá mis ojos la postrera'  
-         'Sombra que me llevare el blanco día,' 
-         'Y podrá desatar esta alma mía'  
-         'Hora, a su afán ansioso lisonjera;' 
+st.write(' Cerrar podrá mis ojos la postrera '  
+         ' Sombra que me llevare el blanco día, ' 
+         ' Y podrá desatar esta alma mía '  
+         ' Hora, a su afán ansioso lisonjera; ' 
          '  '
          ' Francisco de Quevedo '
         
